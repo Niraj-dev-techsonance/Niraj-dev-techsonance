@@ -1,112 +1,179 @@
+<p align="center">
+  <img src="assets/profile.jpeg" width="170" style="border-radius:50%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Niraj Singh</h1>
-<h3 align="center">Full Stack Developer | UI/UX Designer | TechSonance InfoTech</h3>
+
+<h3 align="center">
+Full Stack Developer | UI/UX Designer | TechSonance InfoTech
+</h3>
 
 <p align="center">
-Building scalable digital products 🚀
+🚀 Building Scalable Web Apps | AI Tools | Cloud Systems
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00F5FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;UI%2FUX+Designer;AI+Tools+Builder;TechSonance+Developer;Building+Scalable+Products" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
 - 💻 Full Stack Developer at **TechSonance InfoTech**
 - 🎨 UI/UX Designer with product mindset
-- ⚡ Passionate about building **scalable web apps**
+- 🚀 Building scalable web platforms and AI tools
 - 🌱 Currently learning **AI integrations & cloud systems**
-- 🧠 Interested in **Automation, SaaS, and AI tools**
+- ⚡ Passionate about **automation, SaaS, and developer tools**
+- 📍 Based in India
 
 ---
 
-## 🏢 Company
+# 🏢 Company
 
-**TechSonance InfoTech LLP**
+## TechSonance InfoTech
 
-We build scalable software solutions including:
+TechSonance builds modern digital products and intelligent software solutions.
 
-- Custom Web Applications
-- Mobile Applications
-- AI & Automation Systems
-- Cloud & DevOps Infrastructure
-- SaaS Products
+### Services
 
-🌐 https://www.techsonance.co.in/
+• Web Application Development  
+• AI & Machine Learning Solutions  
+• SaaS Platforms  
+• Cloud Infrastructure  
+• Automation Systems  
 
----
-
-## 🛠 Tech Stack
-
-### Frontend
-- React.js
-- Next.js
-- JavaScript
-- Tailwind CSS
-- HTML5 / CSS3
-
-### Backend
-- Node.js
-- Express.js
-- Python
-
-### Database
-- MongoDB
-- PostgreSQL
-- MySQL
-
-### DevOps & Tools
-- Git
-- Docker
-- AWS
-- Vercel
-- Linux
+🌐 https://www.techsonance.co.in
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,nodejs,express,python,mongodb,mysql,postgres,docker,aws,git,linux,figma" />
+
+</p>
+
+---
+
+# 🚀 Featured Projects
 
 ### 🔐 AI Phishing Detector
-AI-powered system to detect phishing emails and malicious websites.
+
+AI-powered system that detects phishing emails and malicious websites.
 
 Tech Stack:
+
 Python • Machine Learning • Chrome Extension
 
 ---
 
-### 🌾 AI Agriculture Chatbot
-Smart farming assistant built with Python & Streamlit.
+### 🌾 AI Agriculture Assistant
+
+Smart farming assistant built with Python and Streamlit.
 
 Features:
-- Crop suggestions
+
+- Crop recommendations
 - Disease detection
-- Farming guidance
+- Farming insights
 
 ---
 
 ### 💻 Cloud Desktop System
-Browser-based operating system with app environment.
+
+Browser-based operating system with virtual applications.
 
 Stack:
-React • Node • WebSockets
+
+React • Node.js • WebSockets
 
 ---
 
-## 📊 GitHub Stats
+### ⚡ Developer Productivity Tools
+
+Automation tools designed to improve developer workflow.
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Niraj-dev-techsonance&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Niraj-dev-techsonance&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Niraj-dev-techsonance&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Niraj-dev-techsonance&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🌍 Connect With Me
+# 🧠 Most Used Languages
 
-- LinkedIn
-- Portfolio
-- Company Website
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj-dev-techsonance&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-⭐ From **TechSonance Team**
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Niraj-dev-techsonance&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+- 🎓 NextGen Leaders Program Certificate
+- ⛓ Arbitrum Governance & Development Initiative
+- 🏆 CMR Hackathon GUI Developer
+- 🧠 ModelXpert No-Code AI/ML Platform UI Designer
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://www.techsonance.co.in">
+<img src="https://img.shields.io/badge/Company-TechSonance-black?style=for-the-badge" />
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge" />
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Building innovative technology with **TechSonance**
+
+</p>
