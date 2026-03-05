@@ -1,16 +1,112 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Niraj Singh</h1>
+<h3 align="center">Full Stack Developer | UI/UX Designer | TechSonance InfoTech</h3>
 
-<!--
-**Niraj-dev-techsonance/Niraj-dev-techsonance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Building scalable digital products 🚀
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Full Stack Developer at **TechSonance InfoTech**
+- 🎨 UI/UX Designer with product mindset
+- ⚡ Passionate about building **scalable web apps**
+- 🌱 Currently learning **AI integrations & cloud systems**
+- 🧠 Interested in **Automation, SaaS, and AI tools**
+
+---
+
+## 🏢 Company
+
+**TechSonance InfoTech LLP**
+
+We build scalable software solutions including:
+
+- Custom Web Applications
+- Mobile Applications
+- AI & Automation Systems
+- Cloud & DevOps Infrastructure
+- SaaS Products
+
+🌐 https://www.techsonance.co.in/
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React.js
+- Next.js
+- JavaScript
+- Tailwind CSS
+- HTML5 / CSS3
+
+### Backend
+- Node.js
+- Express.js
+- Python
+
+### Database
+- MongoDB
+- PostgreSQL
+- MySQL
+
+### DevOps & Tools
+- Git
+- Docker
+- AWS
+- Vercel
+- Linux
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 AI Phishing Detector
+AI-powered system to detect phishing emails and malicious websites.
+
+Tech Stack:
+Python • Machine Learning • Chrome Extension
+
+---
+
+### 🌾 AI Agriculture Chatbot
+Smart farming assistant built with Python & Streamlit.
+
+Features:
+- Crop suggestions
+- Disease detection
+- Farming guidance
+
+---
+
+### 💻 Cloud Desktop System
+Browser-based operating system with app environment.
+
+Stack:
+React • Node • WebSockets
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Niraj-dev-techsonance&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Niraj-dev-techsonance&theme=tokyonight" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+- LinkedIn
+- Portfolio
+- Company Website
+
+---
+
+⭐ From **TechSonance Team**
